@@ -1,6 +1,0 @@
-Git Workflow Cycle:
-
-1. Edit: Modify existing files or create new files in the working directory.
-2. Add: Stage the changed files for commit using 'git add <filename>' or 'git add .'.
-3. Commit: Save the staged snapshot into the repository history using 'git commit -m "commit message"'.
-4. Push: Upload local commits to the remote repository using 'git push origin main'.

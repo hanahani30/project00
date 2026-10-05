@@ -1,5 +1,0 @@
-commit 5104f19f9433e3527b80601d44539b4b14807438
-Author: hanahani30 <hanaalomari19@gmail.com>
-Date:   Sun Oct 4 16:56:16 2026 +0000
-
-    Add hello.txt file
