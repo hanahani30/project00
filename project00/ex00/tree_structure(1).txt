@@ -1,0 +1,64 @@
+dev_workspace:
+total 6
+drwxrwxr-x 6 kali kali 1024 Oct  1 23:47 .
+drwxrwxr-x 3 kali kali 1024 Oct  1 23:54 ..
+drwxrwxr-x 2 kali kali 1024 Oct  1 00:06 archives
+drwxrwxr-x 3 kali kali 1024 Oct  1 23:50 project
+drwxrwxr-x 3 kali kali 1024 Oct  1 00:08 projects
+drwxrwxr-x 2 kali kali 1024 Oct  1 00:06 tools
+
+dev_workspace/archives:
+total 2
+drwxrwxr-x 2 kali kali 1024 Oct  1 00:06 .
+drwxrwxr-x 6 kali kali 1024 Oct  1 23:47 ..
+
+dev_workspace/project:
+total 3
+drwxrwxr-x 3 kali kali 1024 Oct  1 23:50 .
+drwxrwxr-x 6 kali kali 1024 Oct  1 23:47 ..
+drwxrwxr-x 4 kali kali 1024 Oct  1 23:50 web
+
+dev_workspace/project/web:
+total 4
+drwxrwxr-x 4 kali kali 1024 Oct  1 23:50 .
+drwxrwxr-x 3 kali kali 1024 Oct  1 23:50 ..
+drwxrwxr-x 2 kali kali 1024 Oct  1 23:50 backend
+drwxrwxr-x 2 kali kali 1024 Oct  1 23:50 frontend
+
+dev_workspace/project/web/backend:
+total 2
+drwxrwxr-x 2 kali kali 1024 Oct  1 23:50 .
+drwxrwxr-x 4 kali kali 1024 Oct  1 23:50 ..
+
+dev_workspace/project/web/frontend:
+total 2
+drwxrwxr-x 2 kali kali 1024 Oct  1 23:50 .
+drwxrwxr-x 4 kali kali 1024 Oct  1 23:50 ..
+
+dev_workspace/projects:
+total 3
+drwxrwxr-x 3 kali kali 1024 Oct  1 00:08 .
+drwxrwxr-x 6 kali kali 1024 Oct  1 23:47 ..
+drwxrwxr-x 4 kali kali 1024 Oct  1 00:08 web
+
+dev_workspace/projects/web:
+total 4
+drwxrwxr-x 4 kali kali 1024 Oct  1 00:08 .
+drwxrwxr-x 3 kali kali 1024 Oct  1 00:08 ..
+drwxrwxr-x 2 kali kali 1024 Oct  1 00:08 backend
+drwxrwxr-x 2 kali kali 1024 Oct  1 00:08 frotend
+
+dev_workspace/projects/web/backend:
+total 2
+drwxrwxr-x 2 kali kali 1024 Oct  1 00:08 .
+drwxrwxr-x 4 kali kali 1024 Oct  1 00:08 ..
+
+dev_workspace/projects/web/frotend:
+total 2
+drwxrwxr-x 2 kali kali 1024 Oct  1 00:08 .
+drwxrwxr-x 4 kali kali 1024 Oct  1 00:08 ..
+
+dev_workspace/tools:
+total 2
+drwxrwxr-x 2 kali kali 1024 Oct  1 00:06 .
+drwxrwxr-x 6 kali kali 1024 Oct  1 23:47 ..
